@@ -1,0 +1,1 @@
+This model assesses most similar products to recommend consumers on Amazon's platform. The model specializes in women's fashion and omit certain products based on business criteria (e.g. same article in a different size).
