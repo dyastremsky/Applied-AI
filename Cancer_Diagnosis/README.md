@@ -1,0 +1,1 @@
+Using Sloan Cancer Center data, classify the most likely cancer class by looking at genetic variations and research on those variations, alleviating the shortage of specialists needing to read hundreds of hours of research per case to classify a patient's cancer class.
